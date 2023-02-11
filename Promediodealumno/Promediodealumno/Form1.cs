@@ -51,6 +51,7 @@ namespace Promediodealumno
             });
             return promedio;
 
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -62,6 +63,7 @@ namespace Promediodealumno
             textBox5.Text = "";
 
            textBox1.Focus();
+
         }
     }
 }
